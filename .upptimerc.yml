@@ -7,18 +7,15 @@ user-agent: 0-vortex
 sites:
   - name: Tiamat Tech
     url: https://tiamat.tech
-  - name: Digital Garden
+  - name: Vortex Digital Garden
     url: https://vortex.name
-  - name: Tutorials Domain
+  - name: Vortex Tutorials Domain
     url: https://avortex.online
   - name: Robert Bratucu Blog
     url: https://drbratucu.ro
   - name: Corina Topor Blog
     url: https://corinatopor.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
+  - name: Secret i18n Domain
     url: $SECRET_SITE
 
 assignees: # Users to assign downtime issues (optional)
