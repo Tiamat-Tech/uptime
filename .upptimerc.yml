@@ -30,7 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: @0-vortex
+    - title: "@0-vortex"
       href: https://github.com/0-vortex
   commitMessages:
     commitAuthorName: "0-vortex"
