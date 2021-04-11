@@ -8,6 +8,8 @@ This repository contains the open-source uptime monitor and status page for [Tia
 [![Static Site CI](https://github.com/Tiamat-Tech/uptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
 [![Summary CI](https://github.com/Tiamat-Tech/uptime/workflows/Summary%20CI/badge.svg)](https://github.com/upptime/upptime/actions?query=workflow%3A%22Summary+CI%22)
 
+![uptime Actions](https://api.meercode.io/badge/Tiamat-Tech/uptime?type=ci-count&lastDay=31)
+
 With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/Tiamat-Tech/uptime/issues) as incident reports, [Actions](https://github.com/Tiamat-Tech/uptime/actions) as uptime monitors, and [Pages](https://uptime.tiamat.tech) for the status page.
 
 <!--start: status pages-->
