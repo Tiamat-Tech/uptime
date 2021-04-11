@@ -1,6 +1,6 @@
 # Change these first
-owner: Tiamat-Tech # Your GitHub username
-repo: uptime # Your GitHub repository name
+owner: Tiamat-Tech
+repo: uptime
 user-agent: 0-vortex
 
 # Add your sites here
@@ -18,24 +18,23 @@ sites:
   - name: Secret i18n Domain
     url: $SECRET_SITE
 
-assignees: # Users to assign downtime issues (optional)
-  - 0-vortex
-
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: uptime.tiamat.tech
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   theme: dark
   logoUrl: https://img.stackshare.io/company/34440/default_afe1b1a84e1ee87d98822b17478fba7fe0d89334.png
   name: Tiamat Tech uptime monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Tiamat-Tech/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: @0-vortex
+      href: https://github.com/0-vortex
+  commitMessages:
+    commitAuthorName: "0-vortex"
+    commitAuthorEmail: "237133+0-vortex@users.noreply.github.com"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+assignees:
+  - 0-vortex
