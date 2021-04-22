@@ -1,7 +1,7 @@
 url: https://tiamat.tech
-status: up
-code: 200
-responseTime: 196
-lastUpdated: 2021-04-22T12:01:24.160Z
+status: down
+code: 503
+responseTime: 133
+lastUpdated: 2021-04-22T12:11:05.566Z
 startTime: Mon Mar 01 2021 05:41:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
