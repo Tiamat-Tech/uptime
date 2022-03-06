@@ -14,7 +14,7 @@
     "timeDay": 121,
     "timeWeek": 110,
     "timeMonth": 96,
-    "timeYear": 123,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 1898,
     "timeWeek": 1579,
     "timeMonth": 1417,
-    "timeYear": 751,
+    "timeYear": 753,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 147,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -94,17 +94,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-i18n-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 1133,
-    "timeWeek": 1018,
-    "timeMonth": 657,
-    "timeYear": 505,
+    "timeDay": 1077,
+    "timeWeek": 987,
+    "timeMonth": 651,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   }
 ]
