@@ -94,17 +94,17 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-i18n-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 1177,
-    "timeWeek": 1113,
-    "timeMonth": 828,
-    "timeYear": 673,
+    "time": 613,
+    "timeDay": 1149,
+    "timeWeek": 1092,
+    "timeMonth": 819,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   }
 ]
