@@ -22,17 +22,17 @@
     "url": "https://vortex.name",
     "icon": "https://favicons.githubusercontent.com/vortex.name",
     "slug": "vortex-digital-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 930,
-    "timeDay": 1243,
-    "timeWeek": 1785,
-    "timeMonth": 1470,
-    "timeYear": 1158,
+    "timeDay": 660,
+    "timeWeek": 974,
+    "timeMonth": 1431,
+    "timeYear": 1155,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "time": 942,
     "timeDay": 1171,
     "timeWeek": 1288,
-    "timeMonth": 1398,
+    "timeMonth": 1385,
     "timeYear": 1040,
     "dailyMinutesDown": {}
   }
